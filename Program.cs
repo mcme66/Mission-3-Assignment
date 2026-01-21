@@ -33,6 +33,9 @@ while (running)
 
         case "4":
             running = false;
+            Console.WriteLine("   \\(^_^)/");
+            Console.WriteLine("    |   |");
+            Console.WriteLine("  __|___|__");
             Console.WriteLine("Exiting program. Goodbye!");
             break;
 
